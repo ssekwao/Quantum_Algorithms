@@ -1,2 +1,2 @@
-# Quantum_Algorithms_Examples
+# Quantum_Algorithms
 Quantum algorithms
